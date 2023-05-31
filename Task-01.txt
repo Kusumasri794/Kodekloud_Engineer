@@ -1,5 +1,0 @@
-Exercise: 1
---------------
-sudo adduser john -s /sbin/nologin
-cat /etc/passwrd
-grep ravi
