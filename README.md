@@ -7,10 +7,9 @@ For each task, a set of requirements are given. The documentations for the serve
 
 To learn more, check out Kodekloud Engineer-Getting Started.
 
-Task levels:
+**Task levels:**
 Role/Level and points need to reach next level
-Systems Administrator-Entry-level
-DevOps Engineer-25,000
-Senior DevOps Engineer-75,000
-DevOps Architect- 150,000
-More details can be found here.
+**Systems Administrator**-Entry-level
+**DevOps Engineer**-25,000
+****Senior DevOps Engineer**-75,000
+****DevOps Architect-** 150,000
