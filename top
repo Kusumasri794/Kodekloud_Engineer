@@ -1,0 +1,86 @@
+[33mcommit 44fb7a12a32cba27cbe81d9d00141350a9d44d94[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Tue Jun 6 19:56:37 2023 +0530
+
+    Linux LogRotate:
+
+[33mcommit f1804c9b38cac816bafaec6c8d0cf3ee996ecf9a[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Mon Jun 5 11:41:58 2023 +0530
+
+    Configure Local Yum repos
+
+[33mcommit 8c8ecba348ec82d826a3c1084eee7263ebea468f[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Sun Jun 4 10:52:12 2023 +0530
+
+    Linux Find Command
+
+[33mcommit 93da419feea9b63ced11b8fa58e9f9d317cb47c0[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Fri Jun 2 20:06:00 2023 +0530
+
+    #Linux SSH Authentication
+
+[33mcommit 50d22b799eb56d0072d15837648c72e5075a15c2[m
+Merge: aa31d75 619d3c2
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Thu Jun 1 19:03:38 2023 +0530
+
+    Merge https://github.com/Kusumasri794/Kodekloud_Engineer
+
+[33mcommit aa31d75913441f005103979b9c923cf28d297935[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Thu Jun 1 18:59:09 2023 +0530
+
+    create a cron job
+
+[33mcommit 619d3c23ac1ab60e92949942981047e9603d9ca9[m
+Author: Kusumasri794 <34273703+Kusumasri794@users.noreply.github.com>
+Date:   Wed May 31 10:15:01 2023 +0530
+
+    Update README.md
+    
+    updated file
+
+[33mcommit 7f33cc71a1eebbd71317c568952c3b1aff89ac58[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Wed May 31 10:11:12 2023 +0530
+
+    Linux user with non-interactive shell
+
+[33mcommit 9d7c8fafcb737e996dd787835081484d915f5496[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Wed May 31 10:09:01 2023 +0530
+
+    readme.md file updated with description
+
+[33mcommit e423230f12c9f760e7d769347c4dfa68c455dc37[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Wed May 31 10:03:33 2023 +0530
+
+    Linux banner
+
+[33mcommit 7ceb9157f7927ffdb55685474ad73f2a6191f024[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Mon May 29 21:53:41 2023 +0530
+
+    Linux remote copy
+
+[33mcommit 41c8c3290d7e81d34cb0fd5f481dd4d25d629f96[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Sun May 28 18:26:17 2023 +0530
+
+    Linux Postfix Troubleshooting
+
+[33mcommit 3502a8b9b40f6450426ba252bace6b43ae36ce9a[m
+Author: kusuma794 <kusumasri794@gmail.com>
+Date:   Sun May 28 09:30:34 2023 +0530
+
+    Create a Linux User with non-interactive shell
+
+[33mcommit fda6211427460ba497eafaef7670ff6dbbece6aa[m
+Author: Kusumasri794 <34273703+Kusumasri794@users.noreply.github.com>
+Date:   Sun May 21 22:51:40 2023 +0530
+
+    Initial commit
