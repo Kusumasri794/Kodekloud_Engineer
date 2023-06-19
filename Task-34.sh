@@ -6,7 +6,7 @@
 #For final testing try to access the App Server 2 link (either hostname or IP) from jump host using curl command. For example curl -Ik https://<app-server-ip>/.
 
 
-# Login to Appserver e and switch to root user
+#  Solution: Login to Appserver e and switch to root user
 
 sudo su -
 
